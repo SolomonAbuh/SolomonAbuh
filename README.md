@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on Design pattern Projects (MVVM, MVC AND MVP)
 - 🌱 I’m currently learning Project architectures with flutter 
 - 👯 I’m looking to collaborate with Backend developers and UI/UX designers
-- 🤔 I’m looking for Internship oppurtunities 
 - 💬 Ask me about Flutter, Android Development and tech related stuff 
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I will choose a programming tutorial over a movie any day any time.
